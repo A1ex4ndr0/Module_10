@@ -5,8 +5,6 @@ from time import sleep
 
 
 class Table:
-    # number = None
-
     def __init__(self, number):
         self.number = number
         self.guest = None
